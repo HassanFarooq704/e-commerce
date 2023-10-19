@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.socialLink {
+    @apply bg-slate-100 p-1 text-darkText inline-flex items-center justify-center rounded-md text-lg hover:bg-orange-600 hover:text-white duration-200 cursor-pointer
+}
+
+ 
